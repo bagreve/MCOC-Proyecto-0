@@ -7,9 +7,7 @@ En este ejemplo se usa la función round() de python que redondea los numeros. E
 # OUTPUT DE LA CONSOLA:
 
 3.5
-
 3.5
-
 3.45000000000000017763568394002504646778106689453125
 3.54999999999999982236431605997495353221893310546875
 Introduzca la parte entera del numero a convertir en binario: 98
